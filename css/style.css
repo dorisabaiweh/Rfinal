@@ -22,6 +22,11 @@ h1 {
     margin-right: auto;
     margin-left: auto;
    }
+h3{
+  font-size: 38px;
+  margin-left: 200px;
+  padding-top: 100px;
+}
 .byline {
     text-transform: uppercase;
     font-weight: bold;

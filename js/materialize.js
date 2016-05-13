@@ -6903,11 +6903,7 @@ Picker.extend( 'pickadate', DatePicker )
     prev : function(n) {
       $(this).trigger('carouselPrev', [n]);
     },
-  };
- $(document).ready(function(){
-      $('.carousel').carousel();
-    });
-        
+  };       
 
     $.fn.carousel = function(methodOrOptions) {
       if ( methods[methodOrOptions] ) {
